@@ -1,0 +1,9 @@
+header {
+  flex-basis: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  background: teal;
+}
